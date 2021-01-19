@@ -1,0 +1,95 @@
+*{
+    margin: o;
+    padding: 0;
+}
+.ful-website{
+    text-align: center;
+    display: inline-block;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.min-div ul li{
+    list-style: none;
+    display: inline-block;
+    
+}
+.min-div{
+    background: #273c75;
+    padding: 40px;
+}
+.min-div ul li a{
+    background: #d35400;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 20px;
+    color: #000;
+    transition: .5s;
+}
+.min-div ul li a:hover{
+    background: #ffbe76;
+    transition: .5s;
+}
+.containar{
+    background: url(./stylish-hexagonal-line-pattern-background-1017-19742.jpg);
+    padding: 20px;
+}
+.containar h2{
+    color: blue;
+}
+button{
+    background: red;
+    padding: 5px 10px;
+    transition: .5s;
+}
+button a{
+    text-decoration: none;
+    color: #fff;
+}
+button:hover{
+    background: #be2edd;
+    transition: .5s;
+}
+.footer1{
+    background: #f0932b;
+    padding: 30px 20px;
+}
+.footer1 p{
+    color: #fff;
+}
+.footer1 ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+}
+.footer1 ul li a{
+    text-decoration: none;
+    color: #000;
+}
+.footer1 ul li a:hover{
+    color: #30336b;
+}
+.footer2{
+    background: #30336b;
+    margin-top: -20px;
+    padding: 30px 20px;
+}
+.footer2 ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.footer2 ul li{
+    list-style: none;
+}
+.footer2 ul li a{
+    text-decoration: none;
+    background: #f0932b;
+    padding: 10px;
+}
+.footer2 ul li a:hover{
+    color: #6ab04c;
+}
+.footer2 p{
+    color: #fff;
+}
